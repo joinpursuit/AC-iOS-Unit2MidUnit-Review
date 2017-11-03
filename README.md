@@ -1,4 +1,4 @@
 # Mid-Unit 2 Assessment Review (With Tab Bar Controller)
 
-![v1](videoOne.gif)
-![v2](videoTwo.gif)
+![video1](videoOne.gif)
+![video2](videoTwo.gif)
