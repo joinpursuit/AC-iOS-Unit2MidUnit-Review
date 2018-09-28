@@ -7,6 +7,7 @@
 //
 
 import Foundation
+
 class RAndJModel {
     static let scene4Array = [
         """
@@ -74,6 +75,7 @@ class RAndJModel {
     func isValid(_ str: String) -> Bool {
         return ["romeo", "mercutio","benvolio"].contains(str.lowercased())
     }
+    
     func getLines(from name: String) -> String {
         return RAndJModel.scene4Array
             .filter{$0.hasPrefix(name.uppercased())}

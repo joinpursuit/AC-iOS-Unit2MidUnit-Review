@@ -17,6 +17,7 @@ class PoloniousMonologueModel {
                           "And tediousness the limbs and outward flourishes,",
                           "I will be brief. Your noble son is mad."
     ]
+
     //Complete model
     func nextLine() -> String {
         let currentLine =  PoloniousMonologueModel.textArr[currentIndex]
